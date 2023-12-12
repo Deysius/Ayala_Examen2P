@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
+//con estas librerias puedo tener numero aleatorios
 void asignarValoresinsumos(int insumos[]) {
     printf("Numero de ingresos de insumos : \n");
     for (int i = 1; i < 31; ++i) {
